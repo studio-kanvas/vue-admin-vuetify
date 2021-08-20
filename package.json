@@ -1,7 +1,7 @@
 {
   "name": "vue-admin-vuetify",
   "version": "0.6.0-beta.2",
-  "description": "Basic plugin for YM",
+  "description": "vuetify",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -19,14 +19,10 @@
     "vue-admin-vuetify"
   ],
   "author": {
-    "name": "vasttian",
-    "email": "tianyiming26@gmail.com"
+    "name": "ben kang",
+    "email": "studiokanvasjobs@gmail.com"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vasttian/vue-admin-vuetify/issues"
-  },
-  "homepage": "https://github.com/vasttian/vue-admin-vuetify#readme",
   "publishConfig": {
     "access": "public"
   },

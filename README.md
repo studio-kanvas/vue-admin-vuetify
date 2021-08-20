@@ -5,20 +5,6 @@
   <h4 align="center"><code>vue-admin-vuetify</code> is a Front-end component project.</h4>
   <h4 align="center">Component demo based on <a href="https://github.com/vuejs/vue">vue</a> and <a href="https://github.com/vuetifyjs/vuetify">vuetify</a></h4>
 </p>
-
-<p align="center">
-  <a href="https://github.com/vasttian/vue-admin-vuetify/tags">
-    <img src="https://img.shields.io/github/tag-date/vasttian/vue-admin-vuetify.svg" alt="TAGS">
-  </a>
-  <a href="https://github.com/vasttian/vue-admin-vuetify/releases">
-    <img src="https://img.shields.io/github/release/vasttian/vue-admin-vuetify/all.svg" alt="RELEASE">
-  </a>
-  <a href="https://github.com/vasttian/vue-admin-vuetify/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="LICENSE">
-  </a>
-</p>
-<!-- [![GitHub tag](https://img.shields.io/github/tag-date/vasttian/vue-admin-vuetify.svg)](https://github.com/vasttian/vue-admin-vuetify/tags) -->
-
 ---
 
 ### :page_with_curl: Index
@@ -34,11 +20,6 @@
 ### :warning: Heads up
 
 Currently this is just a **beta version**.
-
-### :art: Live Demo (Need vpn proxy to view)
-
-[http://67.218.155.176:8020](http://67.218.155.176:8020)
-
 ### :rocket: Getting Started
 
 #### Project setup
@@ -101,15 +82,6 @@ npm run lint
 - [ ] add: UI components.
 - [ ] add: Render Functions & Functional Components.
 - [x] add: Demo site.
-
-### :exclamation: Issues
-
-If you run into any issues, you can contact me at [issues](https://github.com/vasttian/vue-admin-vuetify/issues)
-
-### :memo: Changelog
-
-Detailed changes for each release are documented in the [release notes](https://github.com/vasttian/vue-admin-vuetify/releases).
-
 ### :copyright: License
 
 Under the MIT license. See [LICENSE](http://opensource.org/licenses/MIT) file for more details.
